@@ -1,7 +1,7 @@
 ## 0x02-python_async_comprehension
 
 ### Learning Objectives:bulb:
-What you should learn from this project:
+This Project Includes:
 
 * Write an asynchronous generator
 * Use async comprehensions

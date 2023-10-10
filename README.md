@@ -1,7 +1,7 @@
-# alx-backend-python
+# ALX BACKEND PYTHON
 
-### Description
+### * Description
 This repository contains projects on Python programming language.
 
-### Author
+### * Author
 * [Manuel Dinis Júnior](https://github.com/manueldinisjunior)

@@ -72,5 +72,5 @@ ALX AFRICA is a campus-based full-stack software engineering program
 that prepares students for careers in the tech industry using project-based
 peer learning. For more information, visit [this link](https://www.alxafrica.com/).
 <p align="center">
-	<img src="https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg" alt="This is a secret;)">
+	<img src="[https://assets.website-files.com/6105315644a26f77912a1ada/610540e8b4cd6969794fe673_Holberton_School_logo-04-04.svg](https://techpoint.africa/wp-content/uploads/2023/04/ALX-DIGITAL-MARKETING-.png.webp)https://techpoint.africa/wp-content/uploads/2023/04/ALX-DIGITAL-MARKETING-.png.webp" alt="This is a secret;)">
 </p>
